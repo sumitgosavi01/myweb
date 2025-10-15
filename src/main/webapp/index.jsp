@@ -112,7 +112,7 @@
 <body>
   <div class="container">
     <header class="header">
-      <h1>Final-Project Batch013</h1>
+      <h1>Mr Rishabh</h1>
       <div class="social">
         <a href="#"><i class="fab fa-facebook"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
